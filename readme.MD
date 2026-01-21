@@ -23,12 +23,9 @@
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-
 > **Entra ID Password Spray Tool with Smart Lockout Evasion**
 
 Invoke-SprayCat is a sophisticated password spray tool designed for penetration testing against Microsoft Entra ID (formerly Azure AD) tenants. It implements multiple evasion techniques to minimize detection and avoid account lockouts while identifying valid credentials.
-
-![SprayCat Banner](../support-files/spraycat-banner.png)
 
 ---
 
