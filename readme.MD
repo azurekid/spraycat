@@ -1,5 +1,27 @@
 # Invoke-SprayCat 🐾
 
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   ███████╗██████╗ ██████╗  █████╗ ██╗   ██╗     ██████╗ █████╗ ████████╗ ║
+║   ██╔════╝██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝    ██╔════╝██╔══██╗╚══██╔══╝ ║
+║   ███████╗██████╔╝██████╔╝███████║ ╚████╔╝     ██║     ███████║   ██║    ║
+║   ╚════██║██╔═══╝ ██╔══██╗██╔══██║  ╚██╔╝      ██║     ██╔══██║   ██║    ║
+║   ███████║██║     ██║  ██║██║  ██║   ██║       ╚██████╗██║  ██║   ██║    ║
+║   ╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝        ╚═════╝╚═╝  ╚═╝   ╚═╝    ║
+║                                                                          ║
+║                 🐾  ENTRA ID PASSWORD SPRAY TOOL  🐾                     ║
+║                                                                          ║
+║            /\_/\          Smart Lockout Evasion                          ║
+║           ( o.o )         Horizontal Spray Methodology                   ║
+║            > ^ <          MFA Detection & Reporting                      ║
+║           /|   |\         AADSTS Error Intelligence                      ║
+║          (_|   |_)        CSV Export & Analytics                         ║
+║                                                                          ║
+║      [+] Stealth Mode    [+] Multi-App Rotation    [+] Smart Delays      ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+
 > **Entra ID Password Spray Tool with Smart Lockout Evasion**
 
 Invoke-SprayCat is a sophisticated password spray tool designed for penetration testing against Microsoft Entra ID (formerly Azure AD) tenants. It implements multiple evasion techniques to minimize detection and avoid account lockouts while identifying valid credentials.
@@ -46,11 +68,11 @@ Invoke-SprayCat is a sophisticated password spray tool designed for penetration 
 ## Installation
 
 ```powershell
-# Clone the BlackCat repository
-git clone https://github.com/azurekid/blackcat.git
+# Clone the SprayCat repository
+git clone https://github.com/azurekid/spraycat.git
 
 # Import the function
-. ./blackcat/Invoke-SprayCat.ps1
+. ./spraycat/Invoke-SprayCat.ps1
 ```
 
 ### Requirements
@@ -341,8 +363,24 @@ Each request includes randomized:
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
 ║   ███████╗██████╗ ██████╗  █████╗ ██╗   ██╗     ██████╗ █████╗ ████████╗ ║
-║   SPRAY CAT - ENTRA ID PASSWORD SPRAY TOOL                               ║
+║   ██╔════╝██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝    ██╔════╝██╔══██╗╚══██╔══╝ ║
+║   ███████╗██████╔╝██████╔╝███████║ ╚████╔╝     ██║     ███████║   ██║    ║
+║   ╚════██║██╔═══╝ ██╔══██╗██╔══██║  ╚██╔╝      ██║     ██╔══██║   ██║    ║
+║   ███████║██║     ██║  ██║██║  ██║   ██║       ╚██████╗██║  ██║   ██║    ║
+║   ╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝        ╚═════╝╚═╝  ╚═╝   ╚═╝    ║
+║                                                                          ║
+║                 🐾  ENTRA ID PASSWORD SPRAY TOOL  🐾                     ║
+║                                                                          ║
+║            /\_/\          Smart Lockout Evasion                          ║
+║           ( o.o )         Horizontal Spray Methodology                   ║
+║            > ^ <          MFA Detection & Reporting                      ║
+║           /|   |\         AADSTS Error Intelligence                      ║
+║          (_|   |_)        CSV Export & Analytics                         ║
+║                                                                          ║
+║      [+] Stealth Mode    [+] Multi-App Rotation    [+] Smart Delays      ║
+║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 
 [+] Spray: HORIZONTAL (Batch Mode)
@@ -538,7 +576,7 @@ By using this tool, you agree to use it only for legitimate security testing wit
 
 ## Contributing
 
-Found a bug or have a feature request? Please open an issue on the [BlackCat GitHub repository](https://github.com/azurekid/blackcat).
+Found a bug or have a feature request? Please open an issue on the [SprayCat GitHub repository](https://github.com/azurekid/spraycat).
 
 ---
 
@@ -550,4 +588,4 @@ Found a bug or have a feature request? Please open an issue on the [BlackCat Git
 
 ---
 
-*Part of the [BlackCat](https://github.com/azurekid/blackcat) security toolkit.*
+*Part of the [SprayCat](https://github.com/azurekid/blackcat) security toolkit.*
