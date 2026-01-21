@@ -1,6 +1,6 @@
 # Invoke-SprayCat 🐾
 
-./spraycat.png
+![alt text](image.png)
 
 > **Entra ID Password Spray Tool with Smart Lockout Evasion**
 
