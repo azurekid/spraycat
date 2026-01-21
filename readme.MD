@@ -590,4 +590,4 @@ Found a bug or have a feature request? Please open an issue on the [SprayCat Git
 
 ---
 
-*Part of the [SprayCat](https://github.com/azurekid/blackcat) security toolkit.*
+*Part of the [BlackCat](https://github.com/azurekid/blackcat) security toolkit.*
